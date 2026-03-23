@@ -1,47 +1,108 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "G Barbershop",
+  "tagline": "Premium Cuts in Glendale",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Clean Cuts, Sharp Style, Every Time",
+    "subheading": "Glendale's top-rated barbershop — 130 five-star reviews, a perfect 5.0 rating, and the kind of precision cuts that keep you coming back. Walk-ins welcome.",
+    "ctaText": "Call to Book",
+    "ctaLink": "tel:4014104048",
+    "backgroundImage": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepitIjQrrd0B2COB_oOV0anyC0N52Iy_SiuU-FeaOASNYh6GUTZowJj_XyaqHDLuA2yMXIzO875UPPL4WQmd_FH908kEkIIXG1Yu9FwnSQSqOyCCEdu4_IeYRchMDnFmYU7w--4ts2hNYUk=w408-h306-k-no"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "Where Style Meets Precision",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "G Barbershop on Glendale Ave is where skilled barbers meet modern style. Every cut is a craft — fades, tapers, classic cuts, beard trims, and hot towel shaves done with precision and attention to detail.",
+      "With a flawless 5.0-star rating and 130 reviews, we've earned our spot as one of Glendale's most trusted barbershops. Our barbers stay sharp on the latest trends while respecting the classics.",
+      "Open 7 days a week. Walk-ins always welcome, or call ahead to reserve your chair."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
-  ],
-  "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
-    "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
+    {
+      "title": "Precision Haircuts",
+      "description": "Fades, tapers, crew cuts, pompadours, and modern styles — tailored to your face shape and personal style.",
+      "icon": "Scissors"
     },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    {
+      "title": "Beard & Shave",
+      "description": "Full beard trims, shaping, lineup, and hot towel straight razor shaves for the cleanest finish.",
+      "icon": "Sparkles"
+    },
+    {
+      "title": "Kids Cuts",
+      "description": "Patient, skilled cuts for the little ones. We make sure every kid leaves looking sharp and feeling great.",
+      "icon": "Star"
+    },
+    {
+      "title": "Hair Design",
+      "description": "Custom designs, patterns, and artistic details for those who want to stand out from the crowd.",
+      "icon": "Palette"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Alex M.",
+      "text": "Best barbershop in Glendale, hands down. Perfect fade every single time. These guys are real artists.",
+      "rating": 5
+    },
+    {
+      "name": "Hayk G.",
+      "text": "I've been to a lot of barbershops and G is in a league of its own. Clean shop, skilled barbers, great vibes.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel K.",
+      "text": "Five stars isn't enough. My barber here knows exactly what I want before I even sit down. Consistency is key.",
+      "rating": 5
+    },
+    {
+      "name": "Eric W.",
+      "text": "Finally found my go-to spot. The attention to detail is incredible and the shop is always clean and welcoming.",
+      "rating": 5
+    },
+    {
+      "name": "Michael R.",
+      "text": "Brought my son here for the first time and the barber was so patient and skilled. We're both regulars now.",
+      "rating": 5
+    }
+  ],
+  "gallery": {
+    "heading": "Our Shop",
+    "images": [
+      {
+        "src": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepitIjQrrd0B2COB_oOV0anyC0N52Iy_SiuU-FeaOASNYh6GUTZowJj_XyaqHDLuA2yMXIzO875UPPL4WQmd_FH908kEkIIXG1Yu9FwnSQSqOyCCEdu4_IeYRchMDnFmYU7w--4ts2hNYUk=w408-h306-k-no",
+        "alt": "G Barbershop interior"
+      }
+    ]
+  },
+  "contact": {
+    "address": "1104 1/2 S Glendale Ave, Glendale, CA 91205",
+    "phone": "(401) 410-4048",
+    "email": "info@gbarbershop.com",
+    "hours": {
+      "Monday": "9:30 AM - 6:30 PM",
+      "Tuesday": "9:30 AM - 6:30 PM",
+      "Wednesday": "9:30 AM - 6:30 PM",
+      "Thursday": "9:30 AM - 6:30 PM",
+      "Friday": "9:30 AM - 6:30 PM",
+      "Saturday": "9:30 AM - 6:30 PM",
+      "Sunday": "10:00 AM - 5:00 PM"
+    },
+    "mapEmbedQuery": "G Barbershop 1104 S Glendale Ave Glendale CA 91205"
   },
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "G Barbershop | Premium Haircuts & Fades in Glendale CA",
+    "description": "Perfect fades, beard trims, and precision cuts on Glendale Ave. 5.0 stars, 130 reviews. Walk-ins welcome. Open 7 days.",
+    "keywords": [
+      "barbershop Glendale",
+      "haircut Glendale CA",
+      "fade haircut near me",
+      "G Barbershop",
+      "best barber Glendale"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#0f0f0f",
+    "accentColor": "#f59e0b",
+    "fontFamily": "bold"
   }
 }
