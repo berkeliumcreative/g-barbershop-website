@@ -27,7 +27,7 @@ export default function Page() {
           { label: "Hours", href: "#hours" },
           { label: "Contact", href: "#contact" },
         ]}
-        ctaText="✂️ Book Now"
+        ctaText="Book Now"
         ctaHref="tel:4014104048"
       />
 
